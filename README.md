@@ -1,5 +1,5 @@
 ### Moew There 🐾
-<img width="200" alt="portfolio_view" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0c297fae-db93-4430-9b87-f6ebc2d2e9e3/dcg6eln-7f8ffe38-5598-4bce-bfe9-b87c6493aa17.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMGMyOTdmYWUtZGI5My00NDMwLTliODctZjZlYmMyZDJlOWUzXC9kY2c2ZWxuLTdmOGZmZTM4LTU1OTgtNGJjZS1iZmU5LWI4N2M2NDkzYWExNy5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.fhijuPLY6Xh5X-OjxEtwjp3QS_-489SQE1_ujZUXtnA">
+<img width="500" alt="portfolio_view" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0c297fae-db93-4430-9b87-f6ebc2d2e9e3/dcg6eln-7f8ffe38-5598-4bce-bfe9-b87c6493aa17.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMGMyOTdmYWUtZGI5My00NDMwLTliODctZjZlYmMyZDJlOWUzXC9kY2c2ZWxuLTdmOGZmZTM4LTU1OTgtNGJjZS1iZmU5LWI4N2M2NDkzYWExNy5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.fhijuPLY6Xh5X-OjxEtwjp3QS_-489SQE1_ujZUXtnA">
 
 ## About Me ✨
 I am Tanaporn Rojanaridpiched, or you can call me "Noon". 👩🏻<br>
