@@ -32,11 +32,9 @@ A senior student at Faculty of Information and Communication Technology, Mahidol
 
 ## I'm currently working on 💣
 - Senior Project: Suture Practice Evaluation (Machine Learning, Web Application)
-- Object Oriented Database Management System Project
-- Digital Image Processing Project
 
 ## I'm currently learning 📚
-- React Bootstrap
+- React.JS
 - Machine Learning
 
 ## I'm looking for help with 🥺
