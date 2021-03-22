@@ -1,15 +1,16 @@
 # Meow There 🐾
-<img width="500" alt="portfolio_view" src="http://gph.is/2Bfh8fG">
+<img width="500" alt="portfolio_view" src="https://i.pinimg.com/originals/12/53/1e/12531e0475545976e249eb6eca919b51.gif">
 
 ## About Me ✨
 I am Tanaporn Rojanaridpiched, or you can call me "Noon". 👩🏻<br>
 A senior student at Faculty of Information and Communication Technology, Mahidol University. 🏫
 
 ## My Interests 💖
-- Database Management System
-- Data Warehousing and Data Mining
+- Front End Development
 - Web Development
 - UI Design 🖼
+- Database Management System
+- Data Warehousing and Data Mining
 
 ## Experience 🎉
 🏭 MIS Department Internship at Meyer Industries Limited in Laem Chabang, Chonburi
@@ -18,8 +19,9 @@ A senior student at Faculty of Information and Communication Technology, Mahidol
 ## Languages and Tools 💻
 - SQL
 - TypeScript
-- React.JS
+- ReactJS
 - Java
+- Kotlin
 - C
 - Python
 - Adobe XD
@@ -31,17 +33,20 @@ A senior student at Faculty of Information and Communication Technology, Mahidol
 - I love to take note via Notion 📝
 
 ## I'm currently working on 💣
-- Senior Project: Suture Practice Evaluation (Machine Learning, Web Application)
+- Senior Project: Suture Practice Evaluation (As a Front End Developer)
 
 ## I'm currently learning 📚
-- React.JS
+- ReactJS
+- NextJS
+- Prisma
+- GraphQL
 - Material Design
-- Machine Learning
 
 ## I'm looking for help with 🥺
-- Data Engineer 👩🏻‍🔬
-- Data Warehouse Specialist 📊
-- Data Mining Specialist ⛏
+- Software Development 👩‍💻
+- Data Engineering 👩🏻‍🔬
+- Data Warehousing 📊
+- Data Mining ⛏
 
 <!--
 **nunhot005/nunhot005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
